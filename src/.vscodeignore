@@ -10,6 +10,8 @@ tsconfig.json
 !package.json
 !dist/extension.js
 !dist/webview
+!projects/electron
+!node_modules/electron
 !vscode4qlik.png
 !README.md
 !projects/media/icons/*
